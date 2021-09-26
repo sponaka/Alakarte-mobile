@@ -1,0 +1,2 @@
+# alakarte-mob
+`expo start`
